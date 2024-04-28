@@ -1,1 +1,2 @@
 SECOND TEXT FILE
+using html,css and javascript you can build a website
